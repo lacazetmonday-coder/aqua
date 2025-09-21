@@ -2,7 +2,7 @@ name: CI
 on: [push]
 jobs:
   tests:
-    name: "[Project_name]"
+    name: "Aqua"
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout code"
